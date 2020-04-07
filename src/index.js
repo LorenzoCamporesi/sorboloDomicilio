@@ -72,12 +72,13 @@ export default class App extends Component {
 								: <Link class="m-5 text-blue-500 hover:text-blue-800" href="/">Ritorna alla ricerca</Link>
 						}
 					</nav>
-					<h1 class="font-sans text-4xl md:text-5xl lg:text-6xl pt-10 text-gray-800 text-center capitalize">
+					<h1 class="font-sans text-3xl md:text-4xl lg:text-5xl pt-10 text-gray-800 text-center">
 						<span class="block sm:inline-block" role="img" aria-label="biker">
 							🚴
 						</span>
-						{`${process.env.PREACT_APP_CITY} a Domicilio`}
+						{`${process.env.PREACT_APP_CITY} a domicilio`}
 					</h1>
+					<p><center>Si è scelto di usare solo Sorbolo nell'url per avere un link più corto.</center></p>
 					<Router onChange={this.handleRoute}>
 						<Home path="/" results={results} />
 						<Form path="/form" />

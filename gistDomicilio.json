@@ -1,0 +1,439 @@
+{
+  "Salute": {
+    "icon": "👩⚕️",
+    "data": [
+      {
+        "name": "Farmacia Busani",
+        "tel": "0521694132",
+        "note": ""
+      },
+      {
+        "name": "Farmacia Parenti",
+        "tel": [
+          "0521604444",
+          "3387114807"
+        ],
+        "note": ""
+      },
+      {
+        "name": "Farmacia S.Maria Delle Grazie",
+        "tel": "0521818442",
+        "note": ""
+      },
+      {
+        "name": "Farmacia dei Santi",
+        "tel": "0521690734",
+        "note": ""
+      },
+      {
+        "name": "Parafarmacia di Sorbolo",
+        "tel": "0521655616",
+        "note": ""
+      }
+    ]
+  },
+  "Gelaterie": {
+    "icon": "🍦",
+    "data": [
+      {
+        "name": "Gelateria Matilde",
+        "tel": "3289445309",
+        "note": "Solo consegna a domicilio"
+      },
+      {
+        "name": "Gelateria K2",
+        "tel": [
+          "3662710824",
+          "3332309209"
+        ],
+        "note": "Solo consegna a domicilio"
+      }
+    ]
+  },
+  "Macellerie": {
+    "icon": "🥩",
+    "data": [
+      {
+        "name": "Macelleria Corradi Paolo",
+        "tel": "0532243457",
+        "note": ""
+      },
+      {
+        "name": "Salumeria Mordacci",
+        "tel": "0532243457",
+        "note": ""
+      },
+      {
+        "name": "Fantasie Equine",
+        "tel": [
+          "3468441224",
+          "3408610829"
+        ],
+        "note": ""
+      },
+      {
+        "name": "Polleria Mauro e Maurizio",
+        "tel": "0521660133",
+        "note": ""
+      }
+    ]
+  },
+  "Panifici": {
+    "icon": "🍞",
+    "data": [
+      {
+        "name": "Il Pane in Piazza",
+        "tel": "0521655638",
+        "note": ""
+      },
+      {
+        "name": "Forno Goffredi",
+        "tel": "0521698130",
+        "note": ""
+      }
+    ]
+  },
+  "Generi Alimentari": {
+    "icon": "🥬",
+    "data": [
+      {
+        "name": "Alimentari Tabacchi di Allodi Maura",
+        "tel": "0521604505"
+      },
+      {
+        "name": "Caseificio Basse Est Parmense",
+        "tel": "0521690528",
+        "note": "Solo consegna con corriere"
+      },
+      {
+        "name": "Area Verde",
+        "tel": "3888778828",
+        "note": ""
+      },
+      {
+        "name": "Azienda Agricola Ganazzoli",
+        "tel": "3498291150",
+        "note": ""
+      },
+      {
+        "name": "Torrefazione Maria Luigia",
+        "tel": "333 5930856",
+        "note": ""
+      }
+    ]
+  },
+  "Ristorazione": {
+    "icon": "🍽️",
+    "data": [
+      {
+        "name": "Queen Beef Risto Bar",
+        "tel": [
+          "0521694619",
+          "348 7165398"
+        ],
+        "note": "Solo consegna a domicilio"
+      },
+      {
+        "name": "Trattoria Cacciatore",
+        "tel": "0521697400",
+        "note": "Solo consegna a domicilio",
+        "site": "https://www.trattoriadelcacciatore.com/"
+      },
+      {
+        "name": "Ristorante Gatto Nero",
+        "tel": "0521604494",
+        "note": "Consegna a domicilio solo a Bogolese"
+      },
+      {
+        "name": "Il Bersò",
+        "tel": "3332729084",
+        "note": "Solo consegna a domicilio"
+      }
+    ]
+  },
+  "Acqua e Bevande": {
+    "icon": "🍾",
+    "data": [
+      {
+        "name": "Iori Roberto",
+        "tel": "0521604466",
+        "note": ""
+      },
+      {
+        "name": "Vini Tavacca",
+        "tel": [
+          "0521818137",
+          "3489052526",
+          "3472753517"
+        ],
+        "note": ""
+      }
+    ]
+  },
+  "Frutta e Verdura": {
+    "icon": "🍎",
+    "data": [
+      {
+        "name": "Ortofrutta Pechini",
+        "tel": "0521694216",
+        "note": ""
+      },
+      {
+        "name": "Frutta e Verdura Soliani e Vinaglio",
+        "tel": "0521694138",
+        "note": ""
+      },
+      {
+        "name": "Frutta e Verdura Sapori d'Autore",
+        "tel": "3468686227",
+        "note": ""
+      },
+      {
+        "name": "Progetto Nativa Coop.Soc Cigno Verde",
+        "tel": [
+          "0521694050",
+          "3459052920"
+        ],
+        "site": "https://www.cignoverdecoop.it/cosa-facciamo/progetto-nativa/",
+        "note": ""
+      }
+    ]
+  },
+  "Supermercati": {
+    "icon": "🛒",
+    "data": [
+      {
+        "name": "Scotti Family",
+        "tel": "0521818621",
+        "note": ""
+      },
+      {
+        "name": "Crai di Beniamino",
+        "tel": "3895513489",
+        "note": ""
+      }
+    ]
+  },
+  "Pasticcerie": {
+    "icon": "🍩",
+    "data": [
+      {
+        "name": "Pasticceria Lady Anna",
+        "tel": "3492755578",
+        "note": "Solo consegna a domicilio"
+      },
+      {
+        "name": "Pasticceria Da Teo",
+        "tel": "3478855222",
+        "note": "Solo consegna a domicilio"
+      }
+    ]
+  },
+  "Bar": {
+    "icon": "☕",
+    "data": [
+      {
+        "name": "Bar Pippo",
+        "tel": "3755512647",
+        "note": "Solo consegna a domicilio"
+      },
+      {
+        "name": "Royal Bar Via Mantova",
+        "tel": "3473152020",
+        "note": "Solo consegna a domicilio"
+      },
+      {
+        "name": "Blu Bar",
+        "tel": [
+          "3471281743",
+          "3472969241"
+        ],
+        "note": ""
+      },
+      {
+        "name": "Sorsi e Morsi",
+        "tel": "3500256480",
+        "note": ""
+      },
+      {
+        "name": "Frattini Enrica Bar Edicola",
+        "tel": [
+          "0521604447",
+          "3343539116"
+        ],
+        "note": ""
+      },
+      {
+        "name": "Bar La Rotonda",
+        "tel": "3881787471",
+        "note": "Solo consegna a domicilio"
+      },
+      {
+        "name": "Bar Fabio",
+        "tel": "3914210590",
+        "note": ""
+      }
+    ]
+  },
+  "Pizzerie": {
+    "icon": "🍕",
+    "data": [
+      {
+        "name": "Pizzeria Gargano",
+        "tel": "0521818692",
+        "note": "Solo consegna a domicilio"
+      },
+      {
+        "name": "Pizzeria Cartoccio - Sorbolo",
+        "tel": "3703041127",
+        "note": ""
+      },
+      {
+        "name": "Pizzeria Cartoccio - Mezzani",
+        "tel": "3387558704",
+        "note": ""
+      },
+      {
+        "name": "Pizzeria Panpika",
+        "tel": "0521698760",
+        "note": ""
+      }
+    ]
+  },
+  "Lavenderie": {
+    "icon": "👔",
+    "data": [
+      {
+        "name": "Lavanderia Futura",
+        "tel": "3299343144",
+        "note": ""
+      },
+      {
+        "name": "Lavanderia Marilena",
+        "tel": [
+          "0521818255",
+          "3405498858"
+        ],
+        "note": ""
+      }
+    ]
+  },
+  "Tabaccherie": {
+    "icon": "🚬",
+    "data": [
+      {
+        "name": "Tabaccheria Segnali di Fumo",
+        "tel": "0521690669",
+        "note": "Per decreto NON è possibile fare consegna a domicilio di tabacchi lavorati"
+      }
+    ]
+  },
+  "Edicole": {
+    "icon": "📰",
+    "data": [
+      {
+        "name": "Edicola Lo Scarabocchio",
+        "tel": "3402454117",
+        "note": "Consegna a domicilio"
+      },
+      {
+        "name": "Edicola Savioli",
+        "tel": "0521977167",
+        "note": "Consegna a domicilio"
+      },
+      {
+        "name": "Frattini Enrica Bar Edicola",
+        "tel": [
+          "0521604447",
+          "3343539116"
+        ],
+        "note": ""
+      }
+    ]
+  },
+  "Cartolerie": {
+    "icon": "🎒",
+    "data": [
+      {
+        "name": "Tecnocopy",
+        "tel": [
+          "0521694562",
+          "3482622788"
+        ],
+        "note": "Consegna a domicilio"
+      },
+      {
+        "name": "Sasso Carta Forbice",
+        "tel": "3463110460",
+        "note": "Consegna a domicilio"
+      }
+    ]
+  },
+  "Prodotti per animali": {
+    "icon": "🐶",
+    "data": [
+      {
+        "name": "Agrifutura",
+        "tel": "0521883765"
+      }
+    ]
+  },
+  "Altro": {
+    "icon": "🧾",
+    "data": [
+      {
+        "name": "Colorificio Gandolfi",
+        "tel": "3475518443",
+        "note": "Consegna a domicilio"
+      },
+      {
+        "name": "Ottica La Sovrana",
+        "tel": "3913664981"
+      },
+      {
+        "name": "Ferramenta Bergamini",
+        "tel": "340 2261706",
+        "note": "Consegna a domicilio"
+      },
+      {
+        "name": "Ferramenta Hobbistica",
+        "tel": "0521698960",
+        "note": "Consegna a domicilio"
+      },
+      {
+        "name": "Le Perle di Sara",
+        "tel": "3468441322",
+        "note": "Solo consegna a domicilio"
+      },
+      {
+        "name": "Cabrini Italcida",
+        "tel": [
+          "0521698144",
+          "3483067265"
+        ]
+      },
+      {
+        "name": "Fiorista Monti",
+        "tel": [
+          "3482522788",
+          "335493363"
+        ],
+        "note": "Consegna a domicilio"
+      },
+      {
+        "name": "Foto Grandangolo",
+        "tel": "3662514588",
+        "note": "Solo consegna a domicilio"
+      },
+      {
+        "name": "Plast Gomma Market",
+        "tel": "3482622788"
+      },
+      {
+        "name": "Erboristeria Animaverde",
+        "tel": "3342307902",
+        "note": "Solo consegna a domicilio"
+      }
+    ]
+  }
+}
